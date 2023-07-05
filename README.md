@@ -9,8 +9,11 @@ One-click solution
 
 **Technology Stack**
 Backend: Flask
+
 Frontend: Bootstrap, HTML5
+
 Deployment: pythonAnywhere
+
 Machine Learning: scikit-learn (sklearn) library
 
 **You can try UniMatch by visiting our website:**
